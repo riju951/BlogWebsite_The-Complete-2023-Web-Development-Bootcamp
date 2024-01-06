@@ -1,4 +1,4 @@
-# Blog
+# Blog Website
 
 This project, developed after watching "The Complete 2023 Web Development Bootcamp by Angela Yu," is a Blog web application built using Node.js, Express.js, and EJS. The application facilitates the creation, viewing, updating, and deletion of blog posts. Note that posts do not persist between sessions due to the absence of a database integration in this version. Significant attention has been given to styling to enhance the user experience.
 
